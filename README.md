@@ -2,6 +2,7 @@
 This repository implements the algorithms described in the paper "Improving Collaborative Filtering Performance: A Comparative Analysis of Clustering Algorithms with and without Autoencoders" which is now under review.
 
 # Remark
+
  ***Upon acceptance of our paper, we will promptly share the implementation code and data.***
  
 # Project Goals:
@@ -12,19 +13,20 @@ This repository implements the algorithms described in the paper "Improving Coll
 
 # Data:
 
- The repository will include scripts for loading and pre-processing a dataset suitable for CF tasks (e.g., user-item ratings).
+The repository will include scripts for loading and pre-processing a dataset suitable for CF tasks (e.g., user-item ratings).
 
 # Code:
 
- Python code implementing various clustering algorithms (e.g., K-Means, FCM) for CF.
- Integration of autoencoders for dimensionality reduction and improved user representation.
- Evaluation metrics (e.g., recommendation accuracy, precision, recall) to compare the effectiveness of each approach.
+* Python code implementing various clustering algorithms (e.g., K-Means, FCM) for CF.
+* Integration of autoencoders for dimensionality reduction and improved user representation.
+* Evaluation metrics (e.g., recommendation accuracy, precision, recall) to compare the effectiveness of each approach.
 
 # Results:
 
  The repository will include visualizations and analysis of the obtained results, comparing the performance of clustering with and without autoencoders.
 
 # Contribution:
+
 This project aims to contribute to the field of recommender systems by providing a comparative analysis of clustering techniques with and without autoencoders for CF tasks.
 
 # Getting Started:
