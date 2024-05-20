@@ -6,9 +6,9 @@ This repository implements the algorithms described in the paper "Improving Coll
  
 # Project Goals:
 
- Implement clustering algorithms for collaborative filtering (CF).
- Explore incorporating autoencoders to improve user/item representation before clustering.
- Compare the performance of these approaches using a benchmark dataset.
+* Implement clustering algorithms for collaborative filtering (CF).
+* Explore incorporating autoencoders to improve user/item representation before clustering.
+* Compare the performance of these approaches using a benchmark dataset.
 
 # Data:
 
