@@ -1,9 +1,7 @@
 # A Comparative Analysis of Clustering Algorithms with and without Autoencoders in Collaborative Filtering
 This repository implements the algorithms described in the paper "Improving Collaborative Filtering Performance: A Comparative Analysis of Clustering Algorithms with and without Autoencoders" which is now under review.
 
-# Remark
-
- ***Upon acceptance of our paper, we will promptly share the implementation code and data.***
+# Remark: ***Upon acceptance of our paper, we will promptly share the implementation code and data.***
  
 # Project Goals:
 
