@@ -1,7 +1,8 @@
 # Autoencoder & Clustering Combination based Recommender
 
 Welcome to the Movie Recommendation System project! This system uses autoencoders for feature learning, clustering for grouping users, and collaborative filtering for movie recommendations.
-This repository implements the algorithms described in the paper "Improving Collaborative Filtering Performance: A Comparative Analysis of Clustering Algorithms with and without Autoencoders" which is published in Multimedia Tools and Applications.
+
+This repository implements the algorithms described in the paper "**Improving Collaborative Filtering Performance: A Comparative Analysis of Clustering Algorithms with and without Autoencoders**" which is published in Multimedia Tools and Applications.
 
 ## Table of Contents
 
