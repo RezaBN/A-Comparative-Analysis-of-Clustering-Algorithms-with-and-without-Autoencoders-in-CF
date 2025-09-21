@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Autoencoder & Clustering Combination based Recommender
 
 Welcome to the Movie Recommendation System project! This system uses autoencoders for feature learning, clustering for grouping users, and collaborative filtering for movie recommendations.
 This repository implements the algorithms described in the paper "Improving Collaborative Filtering Performance: A Comparative Analysis of Clustering Algorithms with and without Autoencoders" which is published in Multimedia Tools and Applications.
@@ -108,11 +108,11 @@ This project is available under the MIT License. Feel free to contribute and enh
 If you use this Movie Recommendation System project in your research or as a part of your work, we kindly request that you cite it using the following BibTeX entry:
 
 bibtex
-@misc{BarzegarNozari2023,
-  title = {Movie Recommendation System},
+@misc{BarzegarNozari2025,
+  title = {Autoencoder & Clustering Combination based Recommender},
   author = {Barzegar Nozari, Reza},
-  year = {2023},
-  howpublished = {\url{https://github.com/YourGitHubUsername/YourRepositoryName}},
+  year = {2025},
+  howpublished = {\url{[https://github.com/RezaBN/Autoencoder & Clustering Combination based Recommender](https://github.com/RezaBN/A-Comparative-Analysis-of-Clustering-Algorithms-with-and-without-Autoencoders-in-CF)}},
   note = {Accessed: Insert Access Date}
 }
 
