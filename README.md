@@ -109,10 +109,10 @@ This project is available under the MIT License. Feel free to contribute and enh
 If you use this Movie Recommendation System project in your research or as a part of your work, we kindly request that you cite it using the following BibTeX entry:
 
 bibtex
-@misc{BarzegarNozari2025,
-  title = {Autoencoder & Clustering Combination based Recommender},
+@misc{BarzegarNozari2026,
+  title = {Improving collaborative filtering performance: a comparative analysis of clustering algorithms with and without autoencoders},
   author = {Barzegar Nozari, Reza},
-  year = {2025},
+  year = {2026},
   howpublished = {\url{[https://github.com/RezaBN/Autoencoder & Clustering Combination based Recommender](https://github.com/RezaBN/A-Comparative-Analysis-of-Clustering-Algorithms-with-and-without-Autoencoders-in-CF)}},
   note = {Accessed: Insert Access Date}
 }
