@@ -106,16 +106,24 @@ This project is available under the MIT License. Feel free to contribute and enh
 
 # Citation
 
-If you use this Movie Recommendation System project in your research or as a part of your work, we kindly request that you cite it using the following BibTeX entry:
+If you use this Movie Recommendation System project in your research or as part of your work, please cite both the repository and the published paper as follows:
 
-bibtex
+📄 Journal Article
+
+Nozari, R. B. (2026). Improving collaborative filtering performance: a comparative analysis of clustering algorithms with and without autoencoders. Multimedia Tools and Applications, 85, 533.
+https://doi.org/10.1007/s11042-026-21326-2
+
+💻 GitHub Repository (BibTeX)
 @misc{BarzegarNozari2026,
   title = {Improving collaborative filtering performance: a comparative analysis of clustering algorithms with and without autoencoders},
   author = {Barzegar Nozari, Reza},
   year = {2026},
-  howpublished = {\url{[https://github.com/RezaBN/Autoencoder & Clustering Combination based Recommender](https://github.com/RezaBN/A-Comparative-Analysis-of-Clustering-Algorithms-with-and-without-Autoencoders-in-CF)}},
+  howpublished = {\url{https://github.com/RezaBN/A-Comparative-Analysis-of-Clustering-Algorithms-with-and-without-Autoencoders-in-CF}},
   note = {Accessed: Insert Access Date}
 }
+
+By citing both the paper and the repository, you help support reproducibility and acknowledge the full contribution of this work.
+
 
 # Further Information
 
