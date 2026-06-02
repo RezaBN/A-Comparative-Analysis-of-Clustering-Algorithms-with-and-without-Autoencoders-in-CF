@@ -4,7 +4,7 @@ import sklearn
 
 def read_data(selected_data):
     if selected_data == 'MovieLens_100K':
-        df = pd.read_csv('Datasets\Data.csv')
+        df = pd.read_csv('Datasets/Data.csv')
         return df
     else:
         raise ValueError("Selected dataset is not supported.")
